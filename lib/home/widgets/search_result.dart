@@ -122,7 +122,7 @@ class _SearchResultState extends State<SearchResult> {
                             productName,
                           ),
                           SizedBox(
-                            height: 3.h,
+                            height: 4.h,
                           ),
                           Text(
                             productDetails,
